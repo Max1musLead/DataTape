@@ -1,0 +1,4 @@
+read_delay=10
+write_delay=10
+forward_delay=10
+backward_delay=10
